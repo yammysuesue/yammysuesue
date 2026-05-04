@@ -12,16 +12,14 @@
 
 I'm a PhD student interested in statistics, infectious disease modeling, causal inference, and AI-assisted scientific inference. My kitten is Titi, full name Timothy, Chinese Lihua.
 
-🐾 🐈 🐾 🐈 🐾 🐈 🐾
 
-## 🐱 About me
+## 👧 About me
 
 - 🔬 I work on statistical and computational methods for infectious disease research
 - 📊 Interested in survival analysis, pairwise transmission models, and causal inference
 - 💻 I use R, Python, LaTeX, and GitHub for research workflows
 - 🐈 Cat-powered researcher
 
-🐾 🐈 🐾 🐈 🐾 🐈 🐾
 
 ## 🧶 Current focus
 
@@ -32,11 +30,10 @@ I'm currently learning and building tools related to:
 - Agent-based models
 - AI for scientific research
 
-🐾 🐈 🐾 🐈 🐾 🐈 🐾
 
-## 🧶 Technical Skills
+## 🌺 Technical Skills
 
-### 🐾 Programming
+#### 🐾 Programming
 
 ![R](https://img.shields.io/badge/R-F4B6C2?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F7C8A0?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +41,7 @@ I'm currently learning and building tools related to:
 ![MATLAB](https://img.shields.io/badge/MATLAB-E6B89C?style=for-the-badge&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-C9A7EB?style=for-the-badge&logoColor=white)
 
-### 🐱 Data & Database
+#### 🐱 Data & Database
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CDB4DB?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-F6D6AD?style=for-the-badge&logo=apachehadoop&logoColor=white)
@@ -53,7 +50,7 @@ I'm currently learning and building tools related to:
 ![SSH](https://img.shields.io/badge/SSH-DDBEA9?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-AEC6CF?style=for-the-badge&logoColor=white)
 
-### 🧠 ML / Statistics
+### 🍓 ML / Statistics
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-F4B6C2?style=for-the-badge)
 ![Regression](https://img.shields.io/badge/Regression-F7C8A0?style=for-the-badge)
@@ -63,7 +60,7 @@ I'm currently learning and building tools related to:
 ![SEIR Epidemic Modeling](https://img.shields.io/badge/SEIR%20Epidemic%20Modeling-F6D6AD?style=for-the-badge)
 ![Genomics & Genetics](https://img.shields.io/badge/Genomics%20%26%20Genetics-AEC6CF?style=for-the-badge)
 
-### 🖥️ Systems
+#### 🍬 Systems
 
 ![Unix/Linux](https://img.shields.io/badge/Unix%2FLinux-DDBEA9?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-B8C0FF?style=for-the-badge&logo=windows&logoColor=white)
@@ -71,18 +68,16 @@ I'm currently learning and building tools related to:
 ![Remote Access](https://img.shields.io/badge/Remote%20Access-F7C8A0?style=for-the-badge)
 ![University HPC Cluster](https://img.shields.io/badge/University%20HPC%20Cluster-F4B6C2?style=for-the-badge)
 
-🐾 🐈 🐾 🐈 🐾 🐈 🐾
 
-## 🐈 Featured projects
+## ⭐ Featured projects
 
 | Project | Description |
 |---|---|
 | Coming soon | I will add my research projects here |
 | Coming soon | I will add coding notes and reproducible workflows here |
 
-🐾 🐈 🐾 🐈 🐾 🐈 🐾
 
-## 📫 Contact
+## ☁️ Contact
 
 - Email: secret
 - GitHub: https://github.com/yammysuesue
