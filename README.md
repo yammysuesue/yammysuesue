@@ -70,6 +70,7 @@ I'm currently learning and building tools related to:
 ![GPU Computing](https://img.shields.io/badge/GPU%20Computing-CDB4DB?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Remote Access](https://img.shields.io/badge/Remote%20Access-F7C8A0?style=for-the-badge)
 ![University HPC Cluster](https://img.shields.io/badge/University%20HPC%20Cluster-F4B6C2?style=for-the-badge)
+
 🐾 🐈 🐾 🐈 🐾 🐈 🐾
 
 ## 🐈 Featured projects
