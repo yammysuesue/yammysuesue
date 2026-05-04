@@ -1,7 +1,7 @@
 # Hi, I'm Yixuan ฅ^•ﻌ•^ฅ
 
 <p align="center">
-  🐾 🐈 meow-powered research 🐈 🐾
+  <img src="assets/titi_happy!.png" width="160" />
 </p>
 
 🐾 Welcome to my GitHub profile!
