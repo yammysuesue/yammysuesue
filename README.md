@@ -50,5 +50,5 @@ I'm currently learning and building tools related to:
 
 ## 📫 Contact
 
-- Email: your_email@example.com
-- GitHub: https://github.com/YOUR_USERNAME
+- Email: secret
+- GitHub: https://github.com/yammysuesue
