@@ -1,15 +1,10 @@
 <p align="center">
   <img src="./assets/titi_banner.png" width="100%" alt="cat banner" />
 </p>
-
-# Hi, I'm Yixuan ฅ^•ﻌ•^ฅ
-
+🐾 Welcome to my GitHub profile!
 <p align="center">
   <img src="./assets/titi_happy!.jpg" width="160" />
 </p>
-
-🐾 Welcome to my GitHub profile!
-
 I'm a PhD student interested in statistics, infectious disease modeling, causal inference, and AI-assisted scientific inference. My kitten is Titi, full name Timothy, Chinese Lihua.
 
 
