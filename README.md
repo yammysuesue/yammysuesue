@@ -6,7 +6,7 @@
 
 🐾 Welcome to my GitHub profile!
 
-I'm a PhD student interested in statistics, infectious disease modeling, causal inference, and AI-assisted scientific inference.
+I'm a PhD student interested in statistics, infectious disease modeling, causal inference, and AI-assisted scientific inference. My kitten is Titi, full name Timothy, Chinese Lihua.
 
 🐾 🐈 🐾 🐈 🐾 🐈 🐾
 
