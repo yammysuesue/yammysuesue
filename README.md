@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/titi_banner.png" width="100%" alt="cat banner" />
+</p>
+
 # Hi, I'm Yixuan ฅ^•ﻌ•^ฅ
 
 <p align="center">
